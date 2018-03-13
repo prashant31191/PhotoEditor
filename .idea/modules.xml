@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PhotoEditor.iml" filepath="$PROJECT_DIR$/PhotoEditor.iml" />
+      <module fileurl="file://D:\Prashant\Github_Demo\PhotoEditor\PhotoEditor.iml" filepath="D:\Prashant\Github_Demo\PhotoEditor\PhotoEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Prashant\Github_Demo\PhotoEditor\app\app.iml" filepath="D:\Prashant\Github_Demo\PhotoEditor\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/photoeditor/photoeditor.iml" filepath="$PROJECT_DIR$/photoeditor/photoeditor.iml" />
+      <module fileurl="file://D:\Prashant\Github_Demo\PhotoEditor\photoeditor\photoeditor.iml" filepath="D:\Prashant\Github_Demo\PhotoEditor\photoeditor\photoeditor.iml" />
     </modules>
   </component>
 </project>
